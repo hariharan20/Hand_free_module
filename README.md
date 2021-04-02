@@ -14,4 +14,4 @@ Arudino UNO and ultrasonic sensor have been used to test the results of the proj
 ##### 5) ```rosrun Hand_free_module sent_go.py ```
 
 ## The Node graph :
-![Image of Node graph](https://github.com/hariharan20/Hand_free_module/src/images/rosgraph.png)
+![Image of Node graph](https://github.com/hariharan20/Hand_free_module/blob/main/src/images/rosgraph.png)
